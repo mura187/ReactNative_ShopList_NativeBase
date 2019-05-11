@@ -1,0 +1,10 @@
+.DS_Store
+assets/.DS_Store
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.exprc
